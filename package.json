@@ -12,6 +12,7 @@
     "vue": "^3.3.4"
   },
   "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.4",
     "cypress": "^13.6.0",
     "typescript": "^5.2.2",
     "vite": "^5.1.0"

@@ -1,10 +1,17 @@
 <template>
-  <div class="p-4">
-    <h1 class="text-2xl font-bold mb-4">SafeShift Dashboard</h1>
-    <ShiftCard :shift="{ role: 'Cook', time: '2 PM', status: 'Confirmed' }" />
+  <div class="p-4 font-sans">
+    <h1 class="text-3xl font-bold mb-6">SafeShift Dashboard</h1>
+    <RouterView />
   </div>
 </template>
 
 <script setup lang="ts">
-import ShiftCard from './components/ShiftCard.vue'
 </script>
+
+<style>
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+}
+</style>

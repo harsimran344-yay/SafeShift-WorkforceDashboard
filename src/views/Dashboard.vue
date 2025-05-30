@@ -1,0 +1,1 @@
+<template><div><h2>Dashboard Overview</h2><p>Summary cards and alerts go here.</p></div></template>

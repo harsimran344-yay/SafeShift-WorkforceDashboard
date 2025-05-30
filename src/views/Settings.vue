@@ -1,0 +1,1 @@
+<template><div><h2>Settings</h2><p>User preferences and configurations.</p></div></template>

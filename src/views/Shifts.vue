@@ -1,0 +1,1 @@
+<template><div><h2>Shift Management</h2><p>View, add, and edit shifts.</p></div></template>

@@ -1,0 +1,1 @@
+<template><div><h2>Safety Alerts</h2><p>System alerts and safety messages.</p></div></template>

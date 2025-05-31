@@ -1,1 +1,1 @@
-<template><div><h2>Team Directory</h2><p>List of team members and statuses.</p></div></template>
+<template><div><h2>Team Directory</h2><ul><li>Simran – Available</li><li>Aman – On Leave</li><li>Raj – Working</li></ul></div></template>

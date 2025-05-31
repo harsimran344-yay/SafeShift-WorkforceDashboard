@@ -1,1 +1,1 @@
-<template><div><h2>Safety Alerts</h2><p>System alerts and safety messages.</p></div></template>
+<template><div><h2>Safety Alerts</h2><div class='bg-yellow-100 border-l-4 border-yellow-500 text-yellow-700 p-4'>Fire drill at 3 PM today</div></div></template>

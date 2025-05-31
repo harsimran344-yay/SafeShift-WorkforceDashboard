@@ -1,3 +1,3 @@
 # SafeShift – Workforce Safety & Scheduling Dashboard
 
-Full-featured front-end Vue 3 application.
+A functional Vue 3 application with working shift and team management.
